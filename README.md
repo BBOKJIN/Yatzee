@@ -1,3 +1,3 @@
 # Yatzee
-https://drive.google.com/drive/folders/1FQqsZmxK0Do_jZm2ZiKhTuDbab8O_jIW?usp=drive_link
+https://drive.google.com/file/d/1L-ZeNRnXlfYo-97rHmJY4mAWjKMR0OC8/view?usp=sharing
 위 링크에 Yatzee.apk가 있습니다.
